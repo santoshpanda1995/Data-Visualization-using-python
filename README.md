@@ -54,4 +54,10 @@
     <td>8</td>
     <td>Seaborn plots</td>
     <td><a href="https://github.com/santoshpanda1995/Data-Visualization-using-python/blob/main/Seaborn_DV.ipynb">[Link]</a></td>
+  </tr
+
+  <tr>
+    <td>9</td>
+    <td>Plotly plots</td>
+    <td><a href="https://github.com/santoshpanda1995/Data-Visualization-using-python/blob/main/plotly.ipynb">[Link]</a></td>
   </tr>
