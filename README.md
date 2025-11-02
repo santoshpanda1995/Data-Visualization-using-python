@@ -59,5 +59,5 @@
   <tr>
     <td>9</td>
     <td>Plotly plots</td>
-    <td><a href="https://github.com/santoshpanda1995/Data-Visualization-using-python/blob/main/plotly.ipynb">[Link]</a></td>
+    <td><a href="https://github.com/santoshpanda1995/Data-Visualization-using-python/blob/main/Plotly.ipynb">[Link]</a></td>
   </tr>
