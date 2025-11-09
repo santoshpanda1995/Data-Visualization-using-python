@@ -61,3 +61,12 @@
     <td>Plotly plots</td>
     <td><a href="https://github.com/santoshpanda1995/Data-Visualization-using-python/blob/main/Plotly.ipynb">[Link]</a></td>
   </tr>
+
+  <tr>
+    <td>10</td>
+    <td>SymPy plots</td>
+    <td><a href="https://github.com/santoshpanda1995/Data-Visualization-using-python/blob/main/sympy.ipynb">[Link]</a></td>
+  </tr>
+
+
+  
